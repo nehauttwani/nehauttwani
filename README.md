@@ -57,8 +57,8 @@ I’m open to:
 - **Open-source contributions**  
 
 📫 Reach me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)  
-[![Email](https://img.shields.io/badge/Email-FF5252?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-uttwani/)  
+[![Email](https://img.shields.io/badge/Email-FF5252?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uneha210400@gmail.com)  
 
 ---
 
