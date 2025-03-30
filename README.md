@@ -7,6 +7,25 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/nehauttwani?tab=repositories">
+    <img src="https://custom-icon-badges.demolab.com/badge/⟁_Profile_Views-✨%20Loading...-7F3FBF?logo=eye" id="counter" /> 
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F3FBF&width=435&lines=printf(%22Hello,%20World!%22)%3B+%2F%2F+But+make+it+art;while(!succeed)+%7B+tryAgain()%3B+%7D;Ctrl+%2B+Alt+%2B+Create" alt="Typing animation" />
+</p>
+
+<script>
+  fetch("https://api.countapi.xyz/hit/nehauttwani/visits")
+   .then(res => res.json())
+   .then(data => {
+     document.getElementById("counter").src = 
+     `https://custom-icon-badges.demolab.com/badge/👁️‍🗨️_Profile_Views-${data.value}+and+counting!-7F3FBF?logo=rocket`;
+   });
+</script>
+
 ## 🎨 **About Me**  
 I’m a **software developer** with an **artist’s soul**, currently pursuing my **Object-Oriented Software Development Certificate** at **SAIT**.  
 
