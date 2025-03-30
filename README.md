@@ -1,10 +1,13 @@
-#  👩💻 Hello, I'm Neha Uttwani  ## 👀 **Profile Visits**  
-![Visitor Count](https://komarev.com/ghpvc/?username=nehauttwani&label=Profile+Views&color=FF7F50&style=flat)
-**Software Engineer & Creative Developer**  
+#  👩💻 Hello, I'm Neha Uttwani  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF7F50&width=435&lines=Turning+algorithms+into+art;Building+scalable+solutions;Coffee+%E2%98%95%EF%B8%8F+Code+%F0%9F%92%BB+Creativity+%F0%9F%8E%A8" alt="Typing animation" />
 </p>
+
+---
+
+## 👀 **Profile Visits**  
+![Visitor Count](https://komarev.com/ghpvc/?username=nehauttwani&label=Profile+Views&color=FF7F50&style=flat)
 
 ---
 
@@ -43,19 +46,6 @@ I’m a **software developer** with an **artist’s soul**, currently pursuing m
   <img src="https://github-readme-stats.vercel.app/api?username=nehauttwani&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehauttwani&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehauttwani&layout=compact&theme=radical" />
-</p>
-
----
-
-## 👀 **Profile Visits**  
-![Visitor Count](https://komarev.com/ghpvc/?username=nehauttwani&label=Profile+Views&color=FF7F50&style=flat)
-
----
-
-## 🎭 **Art Gallery** *(Hover for surprise!)*  
-<p align="center">
-  <a href="#"><img src="https://placehold.co/200x100/FF7F50/FFFFFF?text=Digital+Art" title="🖌️ My portfolio (coming soon!)" /></a>
-  <a href="#"><img src="https://placehold.co/200x100/6DB33F/FFFFFF?text=Photo+Manipulation" title="📸 Edited in Photoshop" /></a>
 </p>
 
 ---
