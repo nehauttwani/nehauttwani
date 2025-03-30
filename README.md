@@ -2,7 +2,7 @@
 **Software Engineer & Creative Developer**  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F3FBF&width=435&lines=Building+scalable+solutions+with+artistic+flair;From+algorithms+to+aesthetics;Coffee+%E2%98%95%EF%B8%8F+Code+%F0%9F%92%BB+Creativity+%F0%9F%8E%A8" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F3FBF&width=435&lines=Building+scalable+solutions;From+algorithms+to+aesthetics;Coffee+%E2%98%95%EF%B8%8F+Code+%F0%9F%92%BB+Creativity+%F0%9F%8E%A8" alt="Typing animation" />
 </p>
 
 ---
