@@ -12,7 +12,7 @@ I’m a **software developer** with an **artist’s soul**, currently pursuing m
 
 - 🔭 **Coding:** Building elegant Java/Spring & C#/.NET systems  
 - 🎨 **Art:** Digital illustrations, photo manipulation (Adobe Photoshop/Lightroom)  
-- 🌱 **Learning:**cloud (Azure/Firebase) + Data
+- 🌱 **Learning:** cloud (Azure/Firebase) + Data
 - ⚡ **Fun fact:** I once coded a neural network to classify **tongue images** (yes, really—check *Dr.Tongue* below!)  
 
 ---
@@ -37,15 +37,19 @@ I’m a **software developer** with an **artist’s soul**, currently pursuing m
 
 ---
 
-## 🚀 **Featured Projects**  
+## 💻 **GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nehauttwani&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehauttwani&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehauttwani&layout=compact&theme=radical" />
+</p>
 
-### **[Dr.Tongue](https://github.com/nehauttwani/Dr.Tongue)**  
-_A neural network that classifies tongue ailments_  
-`Python` `TensorFlow` `Jupyter Notebook`  
+---
 
-### **[EMS v4.5](https://github.com/nehauttwani/EMS-version-4.5)**  
-_Enterprise Management System in C#_  
-`C#` `.NET` `SQL`  
+## 👀 **Profile Visits**  
+![Visitor Count](https://komarev.com/ghpvc/?username=nehauttwani&label=Profile+Views&color=FF7F50&style=flat)
+
+---
 
 ## 🎭 **Art Gallery** *(Hover for surprise!)*  
 <p align="center">
@@ -55,17 +59,15 @@ _Enterprise Management System in C#_
 
 ---
 
-## 🌟 **GitHub Fun**  
-```java
-// Why I code:
-if (world.hasProblem()) {
-    return new Solution().creativelySolve();
-} else {
-    return new Art().makeBeautiful();
-}
+## 🤝 **Let’s Collab!**  
+I’m open to:  
+- **Java/Spring** projects  
+- **Creative coding** (art + tech)  
+- **Open-source contributions**  
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" /> </p>
-📫 Let’s Collab!
-LinkedIn
-Instagram
-Email
+📫 Reach me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)  
+[![Email](https://img.shields.io/badge/Email-FF5252?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)  
+
+---
+
