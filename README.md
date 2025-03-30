@@ -1,8 +1,8 @@
-# ✨ 𝓗𝓮𝓵�𝓸, 𝓘’𝓶 �𝓔𝓱𝓪 𝓤𝓽𝓽𝔀𝓪𝓷𝓲  
-**Associate Software Engineer** | **Digital Artist** | **Code Poet**  
+#  👩💻 Hello, I'm Neha Uttwani  
+**Software Engineer & Creative Developer**  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Turning+algorithms+into+art;Logic+meets+aesthetics;Debugging+by+moonlight" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F3FBF&width=435&lines=Building+scalable+solutions+with+artistic+flair;From+algorithms+to+aesthetics;Coffee+%E2%98%95%EF%B8%8F+Code+%F0%9F%92%BB+Creativity+%F0%9F%8E%A8" alt="Typing animation" />
 </p>
 
 ---
