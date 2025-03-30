@@ -1,17 +1,9 @@
-#  👩💻 Hello, I'm Neha Uttwani  
+#  👩💻 Hello, I'm Neha Uttwani  ## 👀 **Profile Visits**  
+![Visitor Count](https://komarev.com/ghpvc/?username=nehauttwani&label=Profile+Views&color=FF7F50&style=flat)
 **Software Engineer & Creative Developer**  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF7F50&width=435&lines=Turning+algorithms+into+art;Building+scalable+solutions;Coffee+%E2%98%95%EF%B8%8F+Code+%F0%9F%92%BB+Creativity+%F0%9F%8E%A8" alt="Typing animation" />
-</p>
-
----
-## 🔮 **Digital Footprint**
-
-<p align="center">
-  <a href="https://github.com/nehauttwani">
-    <img src="https://custom-counter.cyclic.app/count?username=nehauttwani&pattern=▁▂▃▄▅▆▇█&color=7F3FBF&style=for-the-badge&animation=glitch" alt="Neha's cosmic visitor counter" title="Another soul witnessed the art of code!" />
-  </a>
 </p>
 
 ---
