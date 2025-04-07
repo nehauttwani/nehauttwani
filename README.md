@@ -16,7 +16,7 @@ I’m a **software developer** with an **artist’s soul**, currently pursuing m
 
 - 🔭 **Coding:** Building elegant Java/Spring & C#/.NET systems  
 - 🎨 **Art:** Digital illustrations, photo manipulation (Adobe Photoshop/Lightroom)  
-- 🌱 **Learning:** cloud (Azure/Firebase) + Data
+- 🌱 **Learning:** Cloud (Azure/AWS) + Data
 - ⚡ **Fun fact:** I once coded a neural network to classify **tongue images** (yes, really—check *Dr.Tongue* below!)  
 
 ---
